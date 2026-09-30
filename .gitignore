@@ -3,3 +3,5 @@
 venv/
 __pycache__/
 *.pyc
+*.backup
+app1.py
